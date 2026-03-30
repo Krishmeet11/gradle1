@@ -31,7 +31,7 @@ pipeline
 				sh 'gradle test'
 			}
 		}
-		stages('Run Application')
+		stage('Run Application')
 		{
 			steps
 			{

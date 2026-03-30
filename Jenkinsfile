@@ -5,7 +5,7 @@ pipeline
 	tools
 	{
 		gradle 'Gradle'
-		jdk 	'JDK'
+		jdk	   'JDK'    
 	}
 	
 	stages
